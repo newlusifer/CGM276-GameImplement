@@ -10,7 +10,7 @@ namespace UDPClient
         static void Main(string[] args)
         {
             string IPserver = "10.1.116.239";//loop back address and this is teacher computer in classRoom
-            string serverTest="127.0.0.1";//testServer
+            //string serverTest="127.0.0.1";//testServer
             
             int servPort=5000;
 
